@@ -42,7 +42,6 @@ jar {
     }
 }
 
-// SSH Publishing
 ssh.settings { knownHosts = allowAnyHosts }
 
 remotes {
