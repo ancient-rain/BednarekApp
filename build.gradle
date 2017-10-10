@@ -46,7 +46,7 @@ ssh.settings { knownHosts = allowAnyHosts }
 
 remotes {
 	webServer {
-		host = '477-01.csse.rose-hulman.edu'
+		host = '137.112.229.164'
 		user = System.getenv('SSH_USER')
 		password = System.getenv('SSH_PASSWORD')
 	}
